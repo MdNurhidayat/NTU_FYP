@@ -1,2 +1,2 @@
-# NTU_Final_Year_Project
+# NTU_FYP
 Final Year Project
